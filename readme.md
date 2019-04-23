@@ -24,3 +24,6 @@ Java has a very special place in my heart since it is the first programming lang
 | C++        | 7     |
 | C#         | 6     |
 | Java       | 6     |
+
+## My Terminal
+![](terminal_screenshot.png)
